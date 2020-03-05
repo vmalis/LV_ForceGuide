@@ -1,5 +1,7 @@
 # LV_ForceGuide
 ## Force guide and MR trigger system
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3697417.svg)](https://doi.org/10.5281/zenodo.3697417)
+
 <p align="center">
   <img width="541" height="391" src=/image/preview.png>
 </p>
