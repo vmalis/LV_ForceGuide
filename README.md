@@ -5,7 +5,7 @@
 </p>
 
 The set of LabVIEW virtual instruments to for measuring nad recording force and providing trigger for MR acqusition.
-The system was used for the following publications.
+Was used in the following publications.
 
 
 - [Sinha, U., Malis, V., Csapo, R., Moghadasi, A., Kinugasa, R. and Sinha, S. (2015), 
